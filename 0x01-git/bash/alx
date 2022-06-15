@@ -1,4 +1,3 @@
 #!/bin/bashD 
-#iecho "ALX School is so cool"=
-echo "ALX School""
->>>>>>> update_script
+#iecho "ALX School is so cool!"=
+echo "ALX School"
